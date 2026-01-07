@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CadGIS Morocco - Provinces & Land Titles",
+  "description": "A professional GIS platform for visualizing Moroccan provinces, land titles, and administrative limits with advanced filtering and search capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
